@@ -1,0 +1,1 @@
+int map_signal(char* signal_name);
