@@ -13,5 +13,5 @@ if there are more than one processes under the same name the program shall send 
 <br/>
 Further iterations of this software will include:<br/>
   - timed signall sending and sending of multipe signals<br/>
-  - choosing signals from tree of signals<br/>
+  - choosing processes from tree of processes if there are more than one under the same name<br/>
   - extending the range of signals handled by the program<br/>
