@@ -11,7 +11,7 @@ Running the program: <br/>
 Current version of the program allows to send one signal to process indentified by given name (for examples check <i>ps au</i>)<br/>
 if there are more than one processes under the same name the program shall send signal to the one with the lowest ID (meaning parent process).<br/>
 <br/>
-Further iterations of this software will include:<br/>
+Future iterations of this software will include:<br/>
   - timed signall sending and sending of multipe signals<br/>
   - choosing processes from tree of processes if there are more than one under the same name<br/>
   - extending the range of signals handled by the program<br/>
